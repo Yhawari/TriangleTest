@@ -1,0 +1,8 @@
+# Compiled Java files
+*.class
+
+# Eclipse output folder
+bin/
+
+# macOS files
+.DS_Store
